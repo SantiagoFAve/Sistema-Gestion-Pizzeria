@@ -1,4 +1,9 @@
-#Sistema de Gestión para Pizzería
+Sistema de Gestión para Pizzería
+![Panel](imagenes/imagen1.png)
+![Estadisticas](imagenes/imagen2.png)
+![Productos](imagenes/imagen3.png)
+![Reportes](imagenes/imagen4.png)
+![Reporte PDF](imagenes/imagen5.png)
 
 Sistema integral de punto de venta y administración desarrollado para un negocio gastronómico real. Permite la toma de pedidos, control de caja diaria, gestión de gastos y generación de reportes contables.
 
@@ -19,3 +24,4 @@ Sistema integral de punto de venta y administración desarrollado para un negoci
 1. Clonar el repositorio.
 2. Ejecutar `docker-compose up -d`.
 3. Acceder a `http://localhost:8080`.
+
