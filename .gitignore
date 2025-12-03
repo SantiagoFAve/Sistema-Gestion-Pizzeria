@@ -1,0 +1,22 @@
+Ignorar carpetas pesadas de node
+
+node_modules/
+dist/
+.env
+
+Ignorar compilados de Java
+
+target/
+*.jar
+*.class
+
+Ignorar archivos de IDE
+
+.idea/
+.vscode/
+*.iml
+
+Ignorar logs y temporales
+
+*.log
+.DS_Store
