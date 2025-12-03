@@ -22,6 +22,8 @@ Sistema integral de punto de venta y administración desarrollado para un negoci
 
 ## Instalación Rápida (Docker)
 1. Clonar el repositorio.
-2. Ejecutar `docker-compose up -d`.
-3. Acceder a `http://localhost:8080`.
+2. Hacer package el backend para obtener el .jar
+3. Ejecutar `docker-compose up -d`.
+4. Acceder a `http://localhost:8080`.
+
 
